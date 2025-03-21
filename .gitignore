@@ -122,6 +122,9 @@ dist
 # FuseBox cache
 .fusebox/
 
+# Build directory
+.svelte-kit/
+
 # DynamoDB Local files
 .dynamodb/
 
